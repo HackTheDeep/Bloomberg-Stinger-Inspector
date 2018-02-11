@@ -1,7 +1,7 @@
 # hack-the-deep
 Hack the Deep @ AMNH 2018/2/10
 
-# Team Name: Bloomberg Stinger Inspector (Team U)
+# Team Name: Jellyfish Bloom (Team U)
 
 ## Team Members  
 Gautam Shine  
